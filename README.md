@@ -5,6 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The perils of social media](https://minkmachine.reine.se/2022/03/the-perils-of-social-media/)
+- [Things to do in Cape Town](https://minkmachine.reine.se/2021/10/things-to-do-in-cape-town/)
+- [20 years without the Twin Towers](https://minkmachine.reine.se/2021/09/20-years-without-the-towers/)
+- [Inspirational travel series](https://minkmachine.reine.se/2021/09/inspirational-travel-series/)
+- [Finding art by Jaume Plensa](https://minkmachine.reine.se/2021/02/finding-art-by-jaume-plensa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages:
