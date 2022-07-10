@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: The Art of Exploration](https://minkmachine.reine.se/2022/07/review-the-art-of-exploration/)
 - [Internet Explorer has been retired](https://minkmachine.reine.se/2022/06/internet-explorer-has-been-retired/)
 - [The traboules of Lyon](https://minkmachine.reine.se/2022/05/the-traboules-of-lyon/)
 - [Brave new world of Web3](https://minkmachine.reine.se/2022/05/brave-new-world-of-web3/)
 - [The perils of social media](https://minkmachine.reine.se/2022/03/the-perils-of-social-media/)
-- [Things to do in Cape Town](https://minkmachine.reine.se/2021/10/things-to-do-in-cape-town/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
