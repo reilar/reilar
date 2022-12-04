@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales of Turin](https://minkmachine.reine.se/2022/12/tales-of-turin/)
 - [Way Out West 2022](https://minkmachine.reine.se/2022/08/way-out-west-2022/)
 - [Review: The Art of Exploration](https://minkmachine.reine.se/2022/07/review-the-art-of-exploration/)
 - [Internet Explorer has been retired](https://minkmachine.reine.se/2022/06/internet-explorer-has-been-retired/)
 - [The traboules of Lyon](https://minkmachine.reine.se/2022/05/the-traboules-of-lyon/)
-- [Brave new world of Web3](https://minkmachine.reine.se/2022/05/brave-new-world-of-web3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
