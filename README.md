@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Paris, redux](https://minkmachine.reine.se/2023/05/paris-redux/)
 - [Things to do in Budapest](https://minkmachine.reine.se/2023/03/things-to-do-in-budapest/)
 - [Tales of Turin](https://minkmachine.reine.se/2022/12/tales-of-turin/)
 - [Way Out West 2022](https://minkmachine.reine.se/2022/08/way-out-west-2022/)
 - [Review: The Art of Exploration](https://minkmachine.reine.se/2022/07/review-the-art-of-exploration/)
-- [Internet Explorer has been retired](https://minkmachine.reine.se/2022/06/internet-explorer-has-been-retired/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
