@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadtrip along the Wild Atlantic Way](https://minkmachine.reine.se/2023/07/roadtrip-along-the-wild-atlantic-way/)
 - [Past and present in Bergen](https://minkmachine.reine.se/2023/07/past-and-present-in-bergen/)
 - [Paris Redux](https://minkmachine.reine.se/2023/05/paris-redux/)
 - [Things to do in Budapest](https://minkmachine.reine.se/2023/03/things-to-do-in-budapest/)
 - [Tales of Turin](https://minkmachine.reine.se/2022/12/tales-of-turin/)
-- [Way Out West 2022](https://minkmachine.reine.se/2022/08/way-out-west-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
