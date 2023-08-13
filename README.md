@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Construction time again in Oslo](https://minkmachine.reine.se/2023/08/construction-time-again-in-oslo/)
 - [Roadtrip along the Wild Atlantic Way](https://minkmachine.reine.se/2023/07/roadtrip-along-the-wild-atlantic-way/)
 - [Past and present in Bergen](https://minkmachine.reine.se/2023/07/past-and-present-in-bergen/)
 - [Paris Redux](https://minkmachine.reine.se/2023/05/paris-redux/)
 - [Things to do in Budapest](https://minkmachine.reine.se/2023/03/things-to-do-in-budapest/)
-- [Tales of Turin](https://minkmachine.reine.se/2022/12/tales-of-turin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
