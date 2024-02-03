@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The streets of Turin](https://minkmachine.reine.se/2024/02/the-streets-of-turin/)
 - [Legendary hotels](https://minkmachine.reine.se/2023/12/legendary-hotels/)
 - [Review: In the Weeds](https://minkmachine.reine.se/2023/11/review-in-the-weeds/)
 - [Construction time again in Oslo](https://minkmachine.reine.se/2023/08/construction-time-again-in-oslo/)
 - [Roadtrip along the Wild Atlantic Way](https://minkmachine.reine.se/2023/07/roadtrip-along-the-wild-atlantic-way/)
-- [Past and present in Bergen](https://minkmachine.reine.se/2023/07/past-and-present-in-bergen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
