@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Movie locations around the world part 9](https://minkmachine.reine.se/2024/03/movie-locations-around-the-world-part-9/)
 - [Review: The Map of Knowledge](https://minkmachine.reine.se/2024/03/review-the-map-of-knowledge/)
 - [The streets of Turin](https://minkmachine.reine.se/2024/02/the-streets-of-turin/)
 - [Legendary hotels](https://minkmachine.reine.se/2023/12/legendary-hotels/)
 - [Review: In the Weeds](https://minkmachine.reine.se/2023/11/review-in-the-weeds/)
-- [Construction time again in Oslo](https://minkmachine.reine.se/2023/08/construction-time-again-in-oslo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
