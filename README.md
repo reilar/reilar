@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [A taste of Swabia](https://minkmachine.reine.se/2024/06/a-taste-of-swabia/)
 - [The Orecchiette ladies of Bari](https://minkmachine.reine.se/2024/04/the-orecchiette-ladies-of-bari/)
 - [Influences in Gallipoli](https://minkmachine.reine.se/2024/04/influences-in-gallipoli/)
 - [The magic of Matera](https://minkmachine.reine.se/2024/04/the-magic-of-matera/)
 - [Movie locations around the world part 9](https://minkmachine.reine.se/2024/03/movie-locations-around-the-world-part-9/)
-- [Review: The Map of Knowledge](https://minkmachine.reine.se/2024/03/review-the-map-of-knowledge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
