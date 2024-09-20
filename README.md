@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [30 years of Mink Machine](https://minkmachine.reine.se/2024/09/30-years-of-mink-machine/)
 - [Way Out West 2024](https://minkmachine.reine.se/2024/08/way-out-west-2024/)
 - [The sound of Berlin](https://minkmachine.reine.se/2024/06/the-sound-of-berlin/)
 - [A taste of Swabia](https://minkmachine.reine.se/2024/06/a-taste-of-swabia/)
 - [The Orecchiette ladies of Bari](https://minkmachine.reine.se/2024/04/the-orecchiette-ladies-of-bari/)
-- [Influences in Gallipoli](https://minkmachine.reine.se/2024/04/influences-in-gallipoli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
