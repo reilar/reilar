@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting bloated in Bologna](https://minkmachine.reine.se/2025/04/getting-bloated-in-bologna/)
+- [Under the Tuscan sun](https://minkmachine.reine.se/2025/04/under-the-tuscan-sun/)
 - [Finding black metal in Norway](https://minkmachine.reine.se/2025/03/finding-black-metal-in-norway/)
 - [Movie locations around the world part 10](https://minkmachine.reine.se/2025/01/movie-locations-around-the-world-part-10/)
 - [The layers of London](https://minkmachine.reine.se/2024/10/the-layers-of-london/)
-- [30 years of Mink Machine](https://minkmachine.reine.se/2024/09/30-years-of-mink-machine/)
-- [Way Out West 2024](https://minkmachine.reine.se/2024/08/way-out-west-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
