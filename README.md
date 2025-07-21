@@ -5,11 +5,11 @@
 ### :writing_hand: Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [In the halls of the mad king](https://minkmachine.reine.se/2025/07/in-the-halls-of-the-mad-king/)
+- [Ascending Zugspitze](https://minkmachine.reine.se/2025/07/ascending-zugspitze/)
 - [History in Aachen](https://minkmachine.reine.se/2025/07/history-in-aachen/)
 - [The electronic sound of Düsseldorf](https://minkmachine.reine.se/2025/07/the-electronic-sound-of-dusseldorf/)
 - [Getting bloated in Bologna](https://minkmachine.reine.se/2025/04/getting-bloated-in-bologna/)
-- [Under the Tuscan sun](https://minkmachine.reine.se/2025/04/under-the-tuscan-sun/)
-- [Finding black metal in Norway](https://minkmachine.reine.se/2025/03/finding-black-metal-in-norway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
